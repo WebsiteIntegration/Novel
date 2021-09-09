@@ -1136,7 +1136,8 @@ table.grid td {
     text-align: center;
     width: 900px;
     margin: 5px;
-    padding: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .bottem a,
